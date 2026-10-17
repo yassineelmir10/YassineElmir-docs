@@ -1,1 +1,9 @@
-Hello I am Yassine elmir 
+# Documentación técnica
+
+Bienvenido a mi documentación técnica.
+
+En este repositorio se encuentran las actividades realizadas durante la unidad de documentación técnica del ciclo DAW.
+
+## Unidades
+
+- [UD1. Documentación técnica](ud1-technical-documentation/A1.pdf)  
