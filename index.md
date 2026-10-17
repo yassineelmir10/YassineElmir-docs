@@ -2,7 +2,7 @@
 
 Bienvenido a mi documentación técnica
 
-En este repositorio se encuentran las actividades realizadas durante la unidad de documentación técnica del ciclo DAW.
+En este repositorio se encuentran las actividades realizadas durante la unidad de documentación técnica del ciclo DAW
 
 ## Unidades
 

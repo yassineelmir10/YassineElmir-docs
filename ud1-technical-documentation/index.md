@@ -1,6 +1,6 @@
 # UD1. Documentación técnica
 
-En esta unidad se recogen las actividades realizadas sobre documentación técnica.
+En esta unidad se recogen las actividades realizadas sobre documentación técnica
 
 ## Actividades
 
