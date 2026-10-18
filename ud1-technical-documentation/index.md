@@ -10,6 +10,6 @@ En esta unidad se recogen las actividades realizadas sobre documentación técni
 - [Actividad 4](./A4.pdf)
 - [Actividad 5](./A5.pdf)
 - [Actividad 6](./A6.pdf) 
-- [Actividad 7](./A7.md)
+- [Actividad 7](./A7.pdf)
 
-[Volver a la página principal](../index.md)
+[Volver a la página principal](../index.md).
