@@ -1,6 +1,6 @@
 [Volver ](../index2.md)
 
-[github pages link :] (https://yassineelmir10.github.io/YassineElmir-docs/)
+[github pages link](https://yassineelmir10.github.io/YassineElmir-docs/)
 
 # 3. Catálogo de procesadores AMD
 

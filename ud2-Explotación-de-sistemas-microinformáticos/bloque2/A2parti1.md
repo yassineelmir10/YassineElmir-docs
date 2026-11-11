@@ -1,3 +1,5 @@
+[Volver ](../index2.md)
+
 # 1. Catálogo de procesadores Intel
 
 ## 1.1. Familias, gamas y modelos
@@ -161,4 +163,4 @@ La Captura :
 
 ![screen20](./20.png)
 
-
+[Volver ](../index2.md)
