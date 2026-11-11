@@ -7,6 +7,8 @@ En este repositorio se encuentran las actividades realizadas durante la unidad d
 ## Unidades
 
 - [UD1. Documentación técnica](ud1-technical-documentation/index.md)  
+- [UD2-Explotación de sistemas-microinformáticos](ud2-Explotación-de-sistemas-microinformáticos/index2.md)
 
-Documentación actualizada y publicada mediante GitHub Pages
+
+
 
