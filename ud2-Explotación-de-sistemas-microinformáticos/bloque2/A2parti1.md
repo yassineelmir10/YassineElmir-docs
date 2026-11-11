@@ -1,4 +1,4 @@
-[Volver ](../index2.md)
+[Volver ](../index2.md) 
 
 # 1. Catálogo de procesadores Intel
 
