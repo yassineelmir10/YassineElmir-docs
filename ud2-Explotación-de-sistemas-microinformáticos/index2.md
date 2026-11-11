@@ -1,4 +1,8 @@
 
+# UD2. Explotación de sistemas microinformáticos
+
+## Actividades
+ 
 Blouque 1 :
 
 [Actividad 2](A2/A2.md)        
