@@ -12,7 +12,8 @@ Blouque 1 :
 Bloque 2 : 
 
 [Actividad parti 1 y 2](B2A1/B2A1.md)        
-[Actividad 2 parti1](bloque2/A2parti1.md)       
-[Actividad 2 parti2](bloque2/A2parti2.md)       
+[Actividad 2 parti1](B2A2/A2parti1.md)       
+[Actividad 2 parti2](B2A2/A2parti2.md)   
+[Actividad 3 ](B2A3/B2A3.md)    
 
 [Volver a la página principal](../index.md)   
