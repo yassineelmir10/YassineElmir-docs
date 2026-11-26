@@ -16,5 +16,6 @@ Bloque 2 :
 [Actividad 2 parti2](B2A2/A2parti2.md)   
 [Actividad 3 ](B2A3/B2A3.md)    
 [Actividad 4](./B2A4/A4boque2.md)    
-[Actividad 5](./B2A5/A5boque5.md)     
+[Actividad 5](./B2A5/A5boque5.md)        
+[Actividad 6](./B2A6/A6B2.md)  
 [Volver a la página principal](../index.md)   
