@@ -1,5 +1,7 @@
 
+ Enlace de github pages :  [https://yassineelmir10.github.io/YassineElmir-docs/](https://yassineelmir10.github.io/YassineElmir-docs/)    
 
+[Volver ](../index2.md) 
 
 # A5. Análisis de almacenamiento, GPU y periféricos 
 
